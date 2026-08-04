@@ -5,11 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/AbFaiz1/My-Leetcode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/AbFaiz1/My-Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/AbFaiz1/My-Leetcode/tree/master/0078-subsets) |
 ## Backtracking
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/AbFaiz1/My-Leetcode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/AbFaiz1/My-Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/AbFaiz1/My-Leetcode/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
