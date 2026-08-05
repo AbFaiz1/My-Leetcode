@@ -23,12 +23,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/AbFaiz1/My-Leetcode/tree/master/0079-word-search) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/AbFaiz1/My-Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0079-word-search](https://github.com/AbFaiz1/My-Leetcode/tree/master/0079-word-search) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/AbFaiz1/My-Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Matrix
 |  |
 | ------- |
 | [0079-word-search](https://github.com/AbFaiz1/My-Leetcode/tree/master/0079-word-search) |
+## Design
+|  |
+| ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/AbFaiz1/My-Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+## Trie
+|  |
+| ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/AbFaiz1/My-Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
