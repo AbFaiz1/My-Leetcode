@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/AbFaiz1/My-Leetcode/tree/master/0212-word-search-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/AbFaiz1/My-Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0334-increasing-triplet-subsequence](https://github.com/AbFaiz1/My-Leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [0992-subarrays-with-k-different-integers](https://github.com/AbFaiz1/My-Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/AbFaiz1/My-Leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/AbFaiz1/My-Leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2432-the-employee-that-worked-on-the-longest-task](https://github.com/AbFaiz1/My-Leetcode/tree/master/2432-the-employee-that-worked-on-the-longest-task) |
@@ -106,4 +107,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/AbFaiz1/My-Leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
+## Hash Table
+|  |
+| ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/AbFaiz1/My-Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+## Sliding Window
+|  |
+| ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/AbFaiz1/My-Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+## Counting
+|  |
+| ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/AbFaiz1/My-Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 <!---LeetCode Topics End-->
