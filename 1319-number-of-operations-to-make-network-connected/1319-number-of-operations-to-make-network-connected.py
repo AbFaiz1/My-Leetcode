@@ -17,10 +17,6 @@ class Solution:
 
         count = 0
 
-        # Minimum n - 1 cables are required
-        if len(connections) < n - 1:
-            return -1
-
         for u, v in connections:
             if find(u) == find(v):
                 count += 1
