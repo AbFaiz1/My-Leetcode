@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0365-water-and-jug-problem](https://github.com/AbFaiz1/My-Leetcode/tree/master/0365-water-and-jug-problem) |
 | [0547-number-of-provinces](https://github.com/AbFaiz1/My-Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/AbFaiz1/My-Leetcode/tree/master/0684-redundant-connection) |
+| [1192-critical-connections-in-a-network](https://github.com/AbFaiz1/My-Leetcode/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AbFaiz1/My-Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [3310-remove-methods-from-project](https://github.com/AbFaiz1/My-Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Matrix
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/AbFaiz1/My-Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/AbFaiz1/My-Leetcode/tree/master/0684-redundant-connection) |
+| [1192-critical-connections-in-a-network](https://github.com/AbFaiz1/My-Leetcode/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AbFaiz1/My-Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1584-min-cost-to-connect-all-points](https://github.com/AbFaiz1/My-Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [3310-remove-methods-from-project](https://github.com/AbFaiz1/My-Leetcode/tree/master/3310-remove-methods-from-project) |
@@ -241,4 +243,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/AbFaiz1/My-Leetcode/tree/master/0365-water-and-jug-problem) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/AbFaiz1/My-Leetcode/tree/master/1192-critical-connections-in-a-network) |
+## Bridge (Graph)
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/AbFaiz1/My-Leetcode/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
