@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/AbFaiz1/My-Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/AbFaiz1/My-Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/AbFaiz1/My-Leetcode/tree/master/0079-word-search) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AbFaiz1/My-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0212-word-search-ii](https://github.com/AbFaiz1/My-Leetcode/tree/master/0212-word-search-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/AbFaiz1/My-Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/AbFaiz1/My-Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AbFaiz1/My-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/AbFaiz1/My-Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/AbFaiz1/My-Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AbFaiz1/My-Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AbFaiz1/My-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0647-palindromic-substrings](https://github.com/AbFaiz1/My-Leetcode/tree/master/0647-palindromic-substrings) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/AbFaiz1/My-Leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Stack
