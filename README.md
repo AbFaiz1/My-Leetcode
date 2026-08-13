@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/AbFaiz1/My-Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/AbFaiz1/My-Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AbFaiz1/My-Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0475-heaters](https://github.com/AbFaiz1/My-Leetcode/tree/master/0475-heaters) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/AbFaiz1/My-Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0992-subarrays-with-k-different-integers](https://github.com/AbFaiz1/My-Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/AbFaiz1/My-Leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/AbFaiz1/My-Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/AbFaiz1/My-Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AbFaiz1/My-Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0475-heaters](https://github.com/AbFaiz1/My-Leetcode/tree/master/0475-heaters) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/AbFaiz1/My-Leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Dynamic Programming
 |  |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/AbFaiz1/My-Leetcode/tree/master/0031-next-permutation) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AbFaiz1/My-Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AbFaiz1/My-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0475-heaters](https://github.com/AbFaiz1/My-Leetcode/tree/master/0475-heaters) |
 | [0647-palindromic-substrings](https://github.com/AbFaiz1/My-Leetcode/tree/master/0647-palindromic-substrings) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/AbFaiz1/My-Leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Stack
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AbFaiz1/My-Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0475-heaters](https://github.com/AbFaiz1/My-Leetcode/tree/master/0475-heaters) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
