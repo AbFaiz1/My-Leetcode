@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/AbFaiz1/My-Leetcode/tree/master/0475-heaters) |
 | [0643-maximum-average-subarray-i](https://github.com/AbFaiz1/My-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/AbFaiz1/My-Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0704-binary-search](https://github.com/AbFaiz1/My-Leetcode/tree/master/0704-binary-search) |
 | [0992-subarrays-with-k-different-integers](https://github.com/AbFaiz1/My-Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/AbFaiz1/My-Leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/AbFaiz1/My-Leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/AbFaiz1/My-Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AbFaiz1/My-Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0475-heaters](https://github.com/AbFaiz1/My-Leetcode/tree/master/0475-heaters) |
+| [0704-binary-search](https://github.com/AbFaiz1/My-Leetcode/tree/master/0704-binary-search) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/AbFaiz1/My-Leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Dynamic Programming
 |  |
