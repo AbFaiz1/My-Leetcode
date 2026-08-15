@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/AbFaiz1/My-Leetcode/tree/master/0079-word-search) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AbFaiz1/My-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0212-word-search-ii](https://github.com/AbFaiz1/My-Leetcode/tree/master/0212-word-search-ii) |
+| [0239-sliding-window-maximum](https://github.com/AbFaiz1/My-Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/AbFaiz1/My-Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/AbFaiz1/My-Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/AbFaiz1/My-Leetcode/tree/master/0334-increasing-triplet-subsequence) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AbFaiz1/My-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/AbFaiz1/My-Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/AbFaiz1/My-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/AbFaiz1/My-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0992-subarrays-with-k-different-integers](https://github.com/AbFaiz1/My-Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/AbFaiz1/My-Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AbFaiz1/My-Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Divide and Conquer
 |  |
@@ -278,4 +281,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AbFaiz1/My-Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/AbFaiz1/My-Leetcode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/AbFaiz1/My-Leetcode/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/AbFaiz1/My-Leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
