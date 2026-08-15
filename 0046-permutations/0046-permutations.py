@@ -1,18 +1,24 @@
 class Solution:
-    def permute(self, nums: List[int]) -> List[List[int]]:
+    def permute(self, arr: List[int]) -> List[List[int]]:
+        visited = set()
         ans = []
-        visited = [False]*len(nums)
+
         def solve(temp):
-            if len(temp) == len(nums):
-                ans.append(temp[:])
+            if len(temp) == len(arr):  # FIX: complete permutation ban gayi
+                ans.append(temp.copy())
                 return
-            for i in range(len(nums)):
-                if visited[i]:
+
+            for i in range(len(arr)):
+                if i in visited:
                     continue
-                visited[i] = True
-                temp.append(nums[i])
-                solve(temp)
-                temp.pop()
-                visited[i] = False
+
+                visited.add(i)
+                temp.append(arr[i])
+
+                solve(temp)  
+
+                temp.pop()        # FIX: backtrack
+                visited.remove(i) # FIX: same element ko unvisit karo
+
         solve([])
         return ans
