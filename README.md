@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/AbFaiz1/My-Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/AbFaiz1/My-Leetcode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/AbFaiz1/My-Leetcode/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/AbFaiz1/My-Leetcode/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/AbFaiz1/My-Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/AbFaiz1/My-Leetcode/tree/master/0079-word-search) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AbFaiz1/My-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/AbFaiz1/My-Leetcode/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/AbFaiz1/My-Leetcode/tree/master/0056-merge-intervals) |
 | [0295-find-median-from-data-stream](https://github.com/AbFaiz1/My-Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AbFaiz1/My-Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0475-heaters](https://github.com/AbFaiz1/My-Leetcode/tree/master/0475-heaters) |
@@ -330,4 +332,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AbFaiz1/My-Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/AbFaiz1/My-Leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
