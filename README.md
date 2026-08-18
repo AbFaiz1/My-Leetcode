@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/AbFaiz1/My-Leetcode/tree/master/0365-water-and-jug-problem) |
 | [0670-maximum-swap](https://github.com/AbFaiz1/My-Leetcode/tree/master/0670-maximum-swap) |
+| [0829-consecutive-numbers-sum](https://github.com/AbFaiz1/My-Leetcode/tree/master/0829-consecutive-numbers-sum) |
 | [1041-robot-bounded-in-circle](https://github.com/AbFaiz1/My-Leetcode/tree/master/1041-robot-bounded-in-circle) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/AbFaiz1/My-Leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 ## Two Pointers
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0829-consecutive-numbers-sum](https://github.com/AbFaiz1/My-Leetcode/tree/master/0829-consecutive-numbers-sum) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/AbFaiz1/My-Leetcode/tree/master/3434-maximum-frequency-after-subarray-operation) |
 ## Prefix Sum
 |  |
