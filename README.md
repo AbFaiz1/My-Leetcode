@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/AbFaiz1/My-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/AbFaiz1/My-Leetcode/tree/master/0647-palindromic-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/AbFaiz1/My-Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [1041-robot-bounded-in-circle](https://github.com/AbFaiz1/My-Leetcode/tree/master/1041-robot-bounded-in-circle) |
 | [1143-longest-common-subsequence](https://github.com/AbFaiz1/My-Leetcode/tree/master/1143-longest-common-subsequence) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/AbFaiz1/My-Leetcode/tree/master/2062-count-vowel-substrings-of-a-string) |
 ## Depth-First Search
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/AbFaiz1/My-Leetcode/tree/master/0365-water-and-jug-problem) |
 | [0670-maximum-swap](https://github.com/AbFaiz1/My-Leetcode/tree/master/0670-maximum-swap) |
+| [1041-robot-bounded-in-circle](https://github.com/AbFaiz1/My-Leetcode/tree/master/1041-robot-bounded-in-circle) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/AbFaiz1/My-Leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 ## Two Pointers
 |  |
@@ -339,4 +341,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/AbFaiz1/My-Leetcode/tree/master/0056-merge-intervals) |
+## Simulation
+|  |
+| ------- |
+| [1041-robot-bounded-in-circle](https://github.com/AbFaiz1/My-Leetcode/tree/master/1041-robot-bounded-in-circle) |
 <!---LeetCode Topics End-->
