@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/AbFaiz1/My-Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/AbFaiz1/My-Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AbFaiz1/My-Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AbFaiz1/My-Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0475-heaters](https://github.com/AbFaiz1/My-Leetcode/tree/master/0475-heaters) |
 | [0643-maximum-average-subarray-i](https://github.com/AbFaiz1/My-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/AbFaiz1/My-Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/AbFaiz1/My-Leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AbFaiz1/My-Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0670-maximum-swap](https://github.com/AbFaiz1/My-Leetcode/tree/master/0670-maximum-swap) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/AbFaiz1/My-Leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1386-cinema-seat-allocation](https://github.com/AbFaiz1/My-Leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/AbFaiz1/My-Leetcode/tree/master/0056-merge-intervals) |
 | [0295-find-median-from-data-stream](https://github.com/AbFaiz1/My-Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AbFaiz1/My-Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AbFaiz1/My-Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0475-heaters](https://github.com/AbFaiz1/My-Leetcode/tree/master/0475-heaters) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AbFaiz1/My-Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/AbFaiz1/My-Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
