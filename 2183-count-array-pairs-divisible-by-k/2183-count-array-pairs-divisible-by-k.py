@@ -9,7 +9,6 @@ class Solution:
             for key, freq in mp.items():
                 if key % need == 0:
                     ans += freq
-        
             mp[g] = mp.get(g, 0) + 1
         return ans
 
