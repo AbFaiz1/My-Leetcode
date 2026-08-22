@@ -1,16 +1,33 @@
 class Solution:
     def countVowelSubstrings(self, word: str) -> int:
+
         vowels = set("aeiou")
-        last = {v: -1 for v in vowels}
-        last_consonant = -1
-        count = 0
-        for i, ch in enumerate(word):
-            if ch not in vowels:
-                last_consonant = i
-            else:
-                last[ch] = i
 
-                if min(last.values()) > last_consonant:
-                    count += min(last.values()) - last_consonant
+        def atMost(k):
 
-        return count
+            freq = {}
+            left = 0
+            ans = 0
+
+            for right in range(len(word)):
+
+                if word[right] not in vowels:
+                    freq.clear()
+                    left = right + 1
+                    continue
+
+                freq[word[right]] = freq.get(word[right], 0) + 1
+
+                while len(freq) > k:
+                    freq[word[left]] -= 1
+
+                    if freq[word[left]] == 0:
+                        del freq[word[left]]
+
+                    left += 1
+
+                ans += right - left + 1
+
+            return ans
+
+        return atMost(5) - atMost(4)
