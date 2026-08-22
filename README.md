@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/AbFaiz1/My-Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1094-car-pooling](https://github.com/AbFaiz1/My-Leetcode/tree/master/1094-car-pooling) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/AbFaiz1/My-Leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1248-count-number-of-nice-subarrays](https://github.com/AbFaiz1/My-Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/AbFaiz1/My-Leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1386-cinema-seat-allocation](https://github.com/AbFaiz1/My-Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/AbFaiz1/My-Leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0829-consecutive-numbers-sum](https://github.com/AbFaiz1/My-Leetcode/tree/master/0829-consecutive-numbers-sum) |
 | [1041-robot-bounded-in-circle](https://github.com/AbFaiz1/My-Leetcode/tree/master/1041-robot-bounded-in-circle) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/AbFaiz1/My-Leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1248-count-number-of-nice-subarrays](https://github.com/AbFaiz1/My-Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [3649-number-of-perfect-pairs](https://github.com/AbFaiz1/My-Leetcode/tree/master/3649-number-of-perfect-pairs) |
 ## Two Pointers
 |  |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/AbFaiz1/My-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/AbFaiz1/My-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0992-subarrays-with-k-different-integers](https://github.com/AbFaiz1/My-Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [1248-count-number-of-nice-subarrays](https://github.com/AbFaiz1/My-Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1386-cinema-seat-allocation](https://github.com/AbFaiz1/My-Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/AbFaiz1/My-Leetcode/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/AbFaiz1/My-Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/AbFaiz1/My-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/AbFaiz1/My-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0992-subarrays-with-k-different-integers](https://github.com/AbFaiz1/My-Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [1248-count-number-of-nice-subarrays](https://github.com/AbFaiz1/My-Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Counting
 |  |
 | ------- |
@@ -259,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1094-car-pooling](https://github.com/AbFaiz1/My-Leetcode/tree/master/1094-car-pooling) |
+| [1248-count-number-of-nice-subarrays](https://github.com/AbFaiz1/My-Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1854-maximum-population-year](https://github.com/AbFaiz1/My-Leetcode/tree/master/1854-maximum-population-year) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/AbFaiz1/My-Leetcode/tree/master/3434-maximum-frequency-after-subarray-operation) |
 ## Sorting
