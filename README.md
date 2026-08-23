@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/AbFaiz1/My-Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/AbFaiz1/My-Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/AbFaiz1/My-Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [0994-rotting-oranges](https://github.com/AbFaiz1/My-Leetcode/tree/master/0994-rotting-oranges) |
 | [1094-car-pooling](https://github.com/AbFaiz1/My-Leetcode/tree/master/1094-car-pooling) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/AbFaiz1/My-Leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AbFaiz1/My-Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/AbFaiz1/My-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AbFaiz1/My-Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/AbFaiz1/My-Leetcode/tree/master/0931-minimum-falling-path-sum) |
+| [0994-rotting-oranges](https://github.com/AbFaiz1/My-Leetcode/tree/master/0994-rotting-oranges) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/AbFaiz1/My-Leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1975-maximum-matrix-sum](https://github.com/AbFaiz1/My-Leetcode/tree/master/1975-maximum-matrix-sum) |
 ## Design
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/AbFaiz1/My-Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/AbFaiz1/My-Leetcode/tree/master/0684-redundant-connection) |
 | [0841-keys-and-rooms](https://github.com/AbFaiz1/My-Leetcode/tree/master/0841-keys-and-rooms) |
+| [0994-rotting-oranges](https://github.com/AbFaiz1/My-Leetcode/tree/master/0994-rotting-oranges) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/AbFaiz1/My-Leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AbFaiz1/My-Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AbFaiz1/My-Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
