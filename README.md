@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/AbFaiz1/My-Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/AbFaiz1/My-Leetcode/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/AbFaiz1/My-Leetcode/tree/master/0257-binary-tree-paths) |
+| [0797-all-paths-from-source-to-target](https://github.com/AbFaiz1/My-Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/AbFaiz1/My-Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/AbFaiz1/My-Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/AbFaiz1/My-Leetcode/tree/master/0684-redundant-connection) |
+| [0797-all-paths-from-source-to-target](https://github.com/AbFaiz1/My-Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/AbFaiz1/My-Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/AbFaiz1/My-Leetcode/tree/master/0841-keys-and-rooms) |
 | [1192-critical-connections-in-a-network](https://github.com/AbFaiz1/My-Leetcode/tree/master/1192-critical-connections-in-a-network) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0365-water-and-jug-problem](https://github.com/AbFaiz1/My-Leetcode/tree/master/0365-water-and-jug-problem) |
 | [0547-number-of-provinces](https://github.com/AbFaiz1/My-Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/AbFaiz1/My-Leetcode/tree/master/0684-redundant-connection) |
+| [0797-all-paths-from-source-to-target](https://github.com/AbFaiz1/My-Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/AbFaiz1/My-Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/AbFaiz1/My-Leetcode/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/AbFaiz1/My-Leetcode/tree/master/0994-rotting-oranges) |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/AbFaiz1/My-Leetcode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/AbFaiz1/My-Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/AbFaiz1/My-Leetcode/tree/master/0684-redundant-connection) |
+| [0797-all-paths-from-source-to-target](https://github.com/AbFaiz1/My-Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/AbFaiz1/My-Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/AbFaiz1/My-Leetcode/tree/master/0841-keys-and-rooms) |
 | [1192-critical-connections-in-a-network](https://github.com/AbFaiz1/My-Leetcode/tree/master/1192-critical-connections-in-a-network) |
@@ -465,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/AbFaiz1/My-Leetcode/tree/master/0207-course-schedule) |
+| [0797-all-paths-from-source-to-target](https://github.com/AbFaiz1/My-Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 ## Kosaraju's Algorithm
 |  |
 | ------- |
