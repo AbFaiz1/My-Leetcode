@@ -6,20 +6,19 @@ class Solution:
         visited = set()
         visiting = set()
         def dfs(start):
+            if start in visiting:
+                return False
+            if start in visited:
+                return True
             visited.add(start)
             visiting.add(start)
             for nei in graph[start]:
-                if nei not in visited:
-                    if dfs(nei):
-                        return True
-                else:
-                    if nei in visiting:
-                        return True
-            visiting.remove(start)
-        for i in range(numCourses):
-            if i not in visited:
-                if dfs(i):
+                if not dfs(nei):
+                    visiting.remove(start)
                     return False
+            visiting.remove(start)
+            return True
+        for i in range(numCourses):
+            if not dfs(i):
+                return False
         return True
-
-                     
