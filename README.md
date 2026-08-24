@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/AbFaiz1/My-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/AbFaiz1/My-Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/AbFaiz1/My-Leetcode/tree/master/0704-binary-search) |
+| [0721-accounts-merge](https://github.com/AbFaiz1/My-Leetcode/tree/master/0721-accounts-merge) |
 | [0735-asteroid-collision](https://github.com/AbFaiz1/My-Leetcode/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/AbFaiz1/My-Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/AbFaiz1/My-Leetcode/tree/master/0931-minimum-falling-path-sum) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/AbFaiz1/My-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/AbFaiz1/My-Leetcode/tree/master/0647-palindromic-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/AbFaiz1/My-Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0721-accounts-merge](https://github.com/AbFaiz1/My-Leetcode/tree/master/0721-accounts-merge) |
 | [1041-robot-bounded-in-circle](https://github.com/AbFaiz1/My-Leetcode/tree/master/1041-robot-bounded-in-circle) |
 | [1143-longest-common-subsequence](https://github.com/AbFaiz1/My-Leetcode/tree/master/1143-longest-common-subsequence) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/AbFaiz1/My-Leetcode/tree/master/2062-count-vowel-substrings-of-a-string) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/AbFaiz1/My-Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/AbFaiz1/My-Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/AbFaiz1/My-Leetcode/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/AbFaiz1/My-Leetcode/tree/master/0721-accounts-merge) |
 | [0797-all-paths-from-source-to-target](https://github.com/AbFaiz1/My-Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/AbFaiz1/My-Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/AbFaiz1/My-Leetcode/tree/master/0841-keys-and-rooms) |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0365-water-and-jug-problem](https://github.com/AbFaiz1/My-Leetcode/tree/master/0365-water-and-jug-problem) |
 | [0547-number-of-provinces](https://github.com/AbFaiz1/My-Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/AbFaiz1/My-Leetcode/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/AbFaiz1/My-Leetcode/tree/master/0721-accounts-merge) |
 | [0797-all-paths-from-source-to-target](https://github.com/AbFaiz1/My-Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/AbFaiz1/My-Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/AbFaiz1/My-Leetcode/tree/master/0841-keys-and-rooms) |
@@ -187,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/AbFaiz1/My-Leetcode/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/AbFaiz1/My-Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/AbFaiz1/My-Leetcode/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/AbFaiz1/My-Leetcode/tree/master/0721-accounts-merge) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AbFaiz1/My-Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1584-min-cost-to-connect-all-points](https://github.com/AbFaiz1/My-Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AbFaiz1/My-Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -265,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AbFaiz1/My-Leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/AbFaiz1/My-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/AbFaiz1/My-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0721-accounts-merge](https://github.com/AbFaiz1/My-Leetcode/tree/master/0721-accounts-merge) |
 | [0992-subarrays-with-k-different-integers](https://github.com/AbFaiz1/My-Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AbFaiz1/My-Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1386-cinema-seat-allocation](https://github.com/AbFaiz1/My-Leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -313,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AbFaiz1/My-Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AbFaiz1/My-Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0475-heaters](https://github.com/AbFaiz1/My-Leetcode/tree/master/0475-heaters) |
+| [0721-accounts-merge](https://github.com/AbFaiz1/My-Leetcode/tree/master/0721-accounts-merge) |
 | [1094-car-pooling](https://github.com/AbFaiz1/My-Leetcode/tree/master/1094-car-pooling) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AbFaiz1/My-Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/AbFaiz1/My-Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
