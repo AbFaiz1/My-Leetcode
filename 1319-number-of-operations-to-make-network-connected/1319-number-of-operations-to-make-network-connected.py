@@ -1,35 +1,29 @@
 class Solution:
     def makeConnected(self, n: int, connections: List[List[int]]) -> int:
-
         parent = list(range(n))
-
+        servers = set()
         def find(x):
             if parent[x] == x:
                 return x
             return find(parent[x])
-
         def union(x, y):
             px = find(x)
             py = find(y)
-
             if px != py:
-                parent[px] = py
-
-        count = 0
-
-        for u, v in connections:
-            if find(u) == find(v):
-                count += 1
+                parent[py] = px
+        cables  = 0
+        for x, y in connections:
+            px = find(x)
+            py = find(y)
+            if px == py:
+                cables += 1
             else:
-                union(u, v)
-
-        components = 0
-
+                union(x, y)
+        nc = 0
         for i in range(n):
-            if find(i) == i:
-                components += 1
-
-        if count >= components - 1:
-            return components - 1
-
+            if parent[i] == i:
+                nc += 1
+        required = nc - 1
+        if cables >= required:
+            return required
         return -1
