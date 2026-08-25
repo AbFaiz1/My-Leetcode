@@ -30,9 +30,6 @@ class Solution:
                 new2 = word[:i] + digit + word[i+1:]
                 if new2 not in check:
                     dq.append((new2, ans+1)) 
-                
-                
-                
         return -1
         
 
