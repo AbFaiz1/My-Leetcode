@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/AbFaiz1/My-Leetcode/tree/master/0257-binary-tree-paths) |
 | [0424-longest-repeating-character-replacement](https://github.com/AbFaiz1/My-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/AbFaiz1/My-Leetcode/tree/master/0647-palindromic-substrings) |
+| [0686-repeated-string-match](https://github.com/AbFaiz1/My-Leetcode/tree/master/0686-repeated-string-match) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/AbFaiz1/My-Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0721-accounts-merge](https://github.com/AbFaiz1/My-Leetcode/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/AbFaiz1/My-Leetcode/tree/master/0752-open-the-lock) |
@@ -584,4 +585,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AbFaiz1/My-Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/AbFaiz1/My-Leetcode/tree/master/0686-repeated-string-match) |
+## Z Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/AbFaiz1/My-Leetcode/tree/master/0686-repeated-string-match) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/AbFaiz1/My-Leetcode/tree/master/0686-repeated-string-match) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/AbFaiz1/My-Leetcode/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
