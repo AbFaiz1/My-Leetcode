@@ -1,14 +1,45 @@
 class Solution:
-    def maximumProfit(self, prices: List[int], k: int) -> int:
-        first_price = prices[0]
-        dp = [[0, -first_price, first_price] for _ in range(k + 1)]
-        n = len(prices)
-        for day in range(1, n):
-            curr_price = prices[day]
-            for trans in range(k, 0, -1):
-                prev_profit = dp[trans - 1][0]
-                dp[trans][0] = max(dp[trans][0], dp[trans][1] + curr_price, dp[trans][2] - curr_price)
-                dp[trans][1] = max(dp[trans][1], prev_profit - curr_price)
-                dp[trans][2] = max(dp[trans][2], prev_profit + curr_price)
-        
-        return dp[k][0]
+    def maximumProfit(self, prices, k):
+        NEG = float('-inf')
+
+        # dp[t][state]
+        # state 0 = FLAT
+        # state 1 = LONG
+        # state 2 = SHORT
+        dp = [[NEG] * 3 for _ in range(k + 1)]
+
+        dp[0][0] = 0
+
+        for price in prices:
+
+            # Copy previous day's states
+            new = [row[:] for row in dp]
+
+            for t in range(k + 1):
+
+                # FLAT -> LONG : BUY
+                new[t][1] = max(
+                    new[t][1],
+                    dp[t][0] - price
+                )
+
+                # FLAT -> SHORT : SELL
+                new[t][2] = max(
+                    new[t][2],
+                    dp[t][0] + price
+                )
+
+                if t < k:
+
+                    # LONG -> FLAT : SELL
+                    new[t + 1][0] = max(
+                        new[t + 1][0],
+                        dp[t][1] + price
+                    )
+
+                    new[t + 1][0] = max(
+                        new[t + 1][0],
+                        dp[t][2] - price
+                    )
+            dp = new
+        return max(dp[t][0] for t in range(k + 1))
