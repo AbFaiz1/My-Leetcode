@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/AbFaiz1/My-Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1392-longest-happy-prefix](https://github.com/AbFaiz1/My-Leetcode/tree/master/1392-longest-happy-prefix) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/AbFaiz1/My-Leetcode/tree/master/2062-count-vowel-substrings-of-a-string) |
+| [2484-count-palindromic-subsequences](https://github.com/AbFaiz1/My-Leetcode/tree/master/2484-count-palindromic-subsequences) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/AbFaiz1/My-Leetcode/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AbFaiz1/My-Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/AbFaiz1/My-Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2484-count-palindromic-subsequences](https://github.com/AbFaiz1/My-Leetcode/tree/master/2484-count-palindromic-subsequences) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/AbFaiz1/My-Leetcode/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/AbFaiz1/My-Leetcode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 ## Math
