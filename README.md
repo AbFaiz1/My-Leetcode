@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-satisfiability-of-equality-equations](https://github.com/AbFaiz1/My-Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1041-robot-bounded-in-circle](https://github.com/AbFaiz1/My-Leetcode/tree/master/1041-robot-bounded-in-circle) |
 | [1143-longest-common-subsequence](https://github.com/AbFaiz1/My-Leetcode/tree/master/1143-longest-common-subsequence) |
+| [1392-longest-happy-prefix](https://github.com/AbFaiz1/My-Leetcode/tree/master/1392-longest-happy-prefix) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/AbFaiz1/My-Leetcode/tree/master/2062-count-vowel-substrings-of-a-string) |
 ## Depth-First Search
 |  |
@@ -589,16 +590,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/AbFaiz1/My-Leetcode/tree/master/0686-repeated-string-match) |
+| [1392-longest-happy-prefix](https://github.com/AbFaiz1/My-Leetcode/tree/master/1392-longest-happy-prefix) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/AbFaiz1/My-Leetcode/tree/master/0686-repeated-string-match) |
+| [1392-longest-happy-prefix](https://github.com/AbFaiz1/My-Leetcode/tree/master/1392-longest-happy-prefix) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/AbFaiz1/My-Leetcode/tree/master/0686-repeated-string-match) |
+| [1392-longest-happy-prefix](https://github.com/AbFaiz1/My-Leetcode/tree/master/1392-longest-happy-prefix) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/AbFaiz1/My-Leetcode/tree/master/0686-repeated-string-match) |
+## Rolling Hash
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/AbFaiz1/My-Leetcode/tree/master/1392-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/AbFaiz1/My-Leetcode/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
