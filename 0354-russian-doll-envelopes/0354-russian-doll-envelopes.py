@@ -10,3 +10,5 @@ class Solution:
             else:
                 dp[idx] = h
         return len(dp)
+
+        
