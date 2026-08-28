@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/AbFaiz1/My-Leetcode/tree/master/0841-keys-and-rooms) |
 | [1192-critical-connections-in-a-network](https://github.com/AbFaiz1/My-Leetcode/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AbFaiz1/My-Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1376-time-needed-to-inform-all-employees](https://github.com/AbFaiz1/My-Leetcode/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1462-course-schedule-iv](https://github.com/AbFaiz1/My-Leetcode/tree/master/1462-course-schedule-iv) |
 | [1631-path-with-minimum-effort](https://github.com/AbFaiz1/My-Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AbFaiz1/My-Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/AbFaiz1/My-Leetcode/tree/master/0994-rotting-oranges) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/AbFaiz1/My-Leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AbFaiz1/My-Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1376-time-needed-to-inform-all-employees](https://github.com/AbFaiz1/My-Leetcode/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1462-course-schedule-iv](https://github.com/AbFaiz1/My-Leetcode/tree/master/1462-course-schedule-iv) |
 | [1631-path-with-minimum-effort](https://github.com/AbFaiz1/My-Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AbFaiz1/My-Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -531,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/AbFaiz1/My-Leetcode/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/AbFaiz1/My-Leetcode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/AbFaiz1/My-Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [1376-time-needed-to-inform-all-employees](https://github.com/AbFaiz1/My-Leetcode/tree/master/1376-time-needed-to-inform-all-employees) |
 ## Binary Tree
 |  |
 | ------- |
