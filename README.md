@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/AbFaiz1/My-Leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1584-min-cost-to-connect-all-points](https://github.com/AbFaiz1/My-Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/AbFaiz1/My-Leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/AbFaiz1/My-Leetcode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1854-maximum-population-year](https://github.com/AbFaiz1/My-Leetcode/tree/master/1854-maximum-population-year) |
 | [1975-maximum-matrix-sum](https://github.com/AbFaiz1/My-Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/AbFaiz1/My-Leetcode/tree/master/2183-count-array-pairs-divisible-by-k) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1235-maximum-profit-in-job-scheduling](https://github.com/AbFaiz1/My-Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/AbFaiz1/My-Leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1631-path-with-minimum-effort](https://github.com/AbFaiz1/My-Leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/AbFaiz1/My-Leetcode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AbFaiz1/My-Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3814-maximum-capacity-within-budget](https://github.com/AbFaiz1/My-Leetcode/tree/master/3814-maximum-capacity-within-budget) |
 ## Dynamic Programming
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/AbFaiz1/My-Leetcode/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/AbFaiz1/My-Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AbFaiz1/My-Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/AbFaiz1/My-Leetcode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/AbFaiz1/My-Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2484-count-palindromic-subsequences](https://github.com/AbFaiz1/My-Leetcode/tree/master/2484-count-palindromic-subsequences) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/AbFaiz1/My-Leetcode/tree/master/3434-maximum-frequency-after-subarray-operation) |
@@ -407,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/AbFaiz1/My-Leetcode/tree/master/1094-car-pooling) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/AbFaiz1/My-Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1338-reduce-array-size-to-the-half](https://github.com/AbFaiz1/My-Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
+| [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/AbFaiz1/My-Leetcode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AbFaiz1/My-Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/AbFaiz1/My-Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3649-number-of-perfect-pairs](https://github.com/AbFaiz1/My-Leetcode/tree/master/3649-number-of-perfect-pairs) |
