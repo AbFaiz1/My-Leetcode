@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/AbFaiz1/My-Leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1338-reduce-array-size-to-the-half](https://github.com/AbFaiz1/My-Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1386-cinema-seat-allocation](https://github.com/AbFaiz1/My-Leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/AbFaiz1/My-Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1514-path-with-maximum-probability](https://github.com/AbFaiz1/My-Leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/AbFaiz1/My-Leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1584-min-cost-to-connect-all-points](https://github.com/AbFaiz1/My-Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/AbFaiz1/My-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0992-subarrays-with-k-different-integers](https://github.com/AbFaiz1/My-Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AbFaiz1/My-Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/AbFaiz1/My-Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Counting
 |  |
 | ------- |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/AbFaiz1/My-Leetcode/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [1094-car-pooling](https://github.com/AbFaiz1/My-Leetcode/tree/master/1094-car-pooling) |
 | [1338-reduce-array-size-to-the-half](https://github.com/AbFaiz1/My-Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/AbFaiz1/My-Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1514-path-with-maximum-probability](https://github.com/AbFaiz1/My-Leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/AbFaiz1/My-Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AbFaiz1/My-Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -465,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/AbFaiz1/My-Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/AbFaiz1/My-Leetcode/tree/master/0493-reverse-pairs) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/AbFaiz1/My-Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Treap
 |  |
 | ------- |
@@ -525,10 +529,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/AbFaiz1/My-Leetcode/tree/master/0239-sliding-window-maximum) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/AbFaiz1/My-Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/AbFaiz1/My-Leetcode/tree/master/0239-sliding-window-maximum) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/AbFaiz1/My-Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
