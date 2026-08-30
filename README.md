@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/AbFaiz1/My-Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AbFaiz1/My-Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/AbFaiz1/My-Leetcode/tree/master/0257-binary-tree-paths) |
+| [0310-minimum-height-trees](https://github.com/AbFaiz1/My-Leetcode/tree/master/0310-minimum-height-trees) |
 | [0365-water-and-jug-problem](https://github.com/AbFaiz1/My-Leetcode/tree/master/0365-water-and-jug-problem) |
 | [0437-path-sum-iii](https://github.com/AbFaiz1/My-Leetcode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/AbFaiz1/My-Leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/AbFaiz1/My-Leetcode/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/AbFaiz1/My-Leetcode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/AbFaiz1/My-Leetcode/tree/master/0226-invert-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/AbFaiz1/My-Leetcode/tree/master/0310-minimum-height-trees) |
 | [0365-water-and-jug-problem](https://github.com/AbFaiz1/My-Leetcode/tree/master/0365-water-and-jug-problem) |
 | [0547-number-of-provinces](https://github.com/AbFaiz1/My-Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/AbFaiz1/My-Leetcode/tree/master/0684-redundant-connection) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/AbFaiz1/My-Leetcode/tree/master/0207-course-schedule) |
+| [0310-minimum-height-trees](https://github.com/AbFaiz1/My-Leetcode/tree/master/0310-minimum-height-trees) |
 | [0547-number-of-provinces](https://github.com/AbFaiz1/My-Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/AbFaiz1/My-Leetcode/tree/master/0684-redundant-connection) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AbFaiz1/My-Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -600,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/AbFaiz1/My-Leetcode/tree/master/0207-course-schedule) |
+| [0310-minimum-height-trees](https://github.com/AbFaiz1/My-Leetcode/tree/master/0310-minimum-height-trees) |
 | [0802-find-eventual-safe-states](https://github.com/AbFaiz1/My-Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [1462-course-schedule-iv](https://github.com/AbFaiz1/My-Leetcode/tree/master/1462-course-schedule-iv) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/AbFaiz1/My-Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
