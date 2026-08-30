@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/AbFaiz1/My-Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1392-longest-happy-prefix](https://github.com/AbFaiz1/My-Leetcode/tree/master/1392-longest-happy-prefix) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/AbFaiz1/My-Leetcode/tree/master/2062-count-vowel-substrings-of-a-string) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/AbFaiz1/My-Leetcode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2484-count-palindromic-subsequences](https://github.com/AbFaiz1/My-Leetcode/tree/master/2484-count-palindromic-subsequences) |
 ## Depth-First Search
 |  |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1462-course-schedule-iv](https://github.com/AbFaiz1/My-Leetcode/tree/master/1462-course-schedule-iv) |
 | [1631-path-with-minimum-effort](https://github.com/AbFaiz1/My-Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AbFaiz1/My-Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/AbFaiz1/My-Leetcode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [3310-remove-methods-from-project](https://github.com/AbFaiz1/My-Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Matrix
 |  |
@@ -571,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/AbFaiz1/My-Leetcode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/AbFaiz1/My-Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/AbFaiz1/My-Leetcode/tree/master/1376-time-needed-to-inform-all-employees) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/AbFaiz1/My-Leetcode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Binary Tree
 |  |
 | ------- |
@@ -580,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/AbFaiz1/My-Leetcode/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/AbFaiz1/My-Leetcode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/AbFaiz1/My-Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/AbFaiz1/My-Leetcode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Data Stream
 |  |
 | ------- |
@@ -694,4 +698,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/AbFaiz1/My-Leetcode/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/AbFaiz1/My-Leetcode/tree/master/0044-wildcard-matching) |
+## Binary Lifting
+|  |
+| ------- |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/AbFaiz1/My-Leetcode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/AbFaiz1/My-Leetcode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 <!---LeetCode Topics End-->
