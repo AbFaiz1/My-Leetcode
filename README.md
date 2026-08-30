@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/AbFaiz1/My-Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/AbFaiz1/My-Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/AbFaiz1/My-Leetcode/tree/master/0038-count-and-say) |
+| [0044-wildcard-matching](https://github.com/AbFaiz1/My-Leetcode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/AbFaiz1/My-Leetcode/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/AbFaiz1/My-Leetcode/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/AbFaiz1/My-Leetcode/tree/master/0097-interleaving-string) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/AbFaiz1/My-Leetcode/tree/master/0044-wildcard-matching) |
 | [0334-increasing-triplet-subsequence](https://github.com/AbFaiz1/My-Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AbFaiz1/My-Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AbFaiz1/My-Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/AbFaiz1/My-Leetcode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/AbFaiz1/My-Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/AbFaiz1/My-Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/AbFaiz1/My-Leetcode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/AbFaiz1/My-Leetcode/tree/master/0053-maximum-subarray) |
 | [0097-interleaving-string](https://github.com/AbFaiz1/My-Leetcode/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/AbFaiz1/My-Leetcode/tree/master/0118-pascals-triangle) |
@@ -688,4 +691,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/AbFaiz1/My-Leetcode/tree/master/0010-regular-expression-matching) |
+| [0044-wildcard-matching](https://github.com/AbFaiz1/My-Leetcode/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
