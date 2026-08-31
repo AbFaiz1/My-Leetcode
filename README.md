@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/AbFaiz1/My-Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/AbFaiz1/My-Leetcode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/AbFaiz1/My-Leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/AbFaiz1/My-Leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1854-maximum-population-year](https://github.com/AbFaiz1/My-Leetcode/tree/master/1854-maximum-population-year) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/AbFaiz1/My-Leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1975-maximum-matrix-sum](https://github.com/AbFaiz1/My-Leetcode/tree/master/1975-maximum-matrix-sum) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/AbFaiz1/My-Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/AbFaiz1/My-Leetcode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/AbFaiz1/My-Leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/AbFaiz1/My-Leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/AbFaiz1/My-Leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AbFaiz1/My-Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3814-maximum-capacity-within-budget](https://github.com/AbFaiz1/My-Leetcode/tree/master/3814-maximum-capacity-within-budget) |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1235-maximum-profit-in-job-scheduling](https://github.com/AbFaiz1/My-Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1338-reduce-array-size-to-the-half](https://github.com/AbFaiz1/My-Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/AbFaiz1/My-Leetcode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/AbFaiz1/My-Leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AbFaiz1/My-Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2402-meeting-rooms-iii](https://github.com/AbFaiz1/My-Leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/AbFaiz1/My-Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -467,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/AbFaiz1/My-Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1514-path-with-maximum-probability](https://github.com/AbFaiz1/My-Leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/AbFaiz1/My-Leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/AbFaiz1/My-Leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AbFaiz1/My-Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2402-meeting-rooms-iii](https://github.com/AbFaiz1/My-Leetcode/tree/master/2402-meeting-rooms-iii) |
 ## Divide and Conquer
@@ -723,4 +727,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0372-super-pow](https://github.com/AbFaiz1/My-Leetcode/tree/master/0372-super-pow) |
+## Sweep Line
+|  |
+| ------- |
+| [1851-minimum-interval-to-include-each-query](https://github.com/AbFaiz1/My-Leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
 <!---LeetCode Topics End-->
