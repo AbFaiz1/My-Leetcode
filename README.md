@@ -333,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/AbFaiz1/My-Leetcode/tree/master/0365-water-and-jug-problem) |
+| [0372-super-pow](https://github.com/AbFaiz1/My-Leetcode/tree/master/0372-super-pow) |
 | [0670-maximum-swap](https://github.com/AbFaiz1/My-Leetcode/tree/master/0670-maximum-swap) |
 | [0829-consecutive-numbers-sum](https://github.com/AbFaiz1/My-Leetcode/tree/master/0829-consecutive-numbers-sum) |
 | [1041-robot-bounded-in-circle](https://github.com/AbFaiz1/My-Leetcode/tree/master/1041-robot-bounded-in-circle) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/AbFaiz1/My-Leetcode/tree/master/0053-maximum-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AbFaiz1/My-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/AbFaiz1/My-Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0372-super-pow](https://github.com/AbFaiz1/My-Leetcode/tree/master/0372-super-pow) |
 | [0493-reverse-pairs](https://github.com/AbFaiz1/My-Leetcode/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
@@ -713,4 +715,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/AbFaiz1/My-Leetcode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
+## Euler's Totient Function
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/AbFaiz1/My-Leetcode/tree/master/0372-super-pow) |
+## Euler's Theorem
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/AbFaiz1/My-Leetcode/tree/master/0372-super-pow) |
 <!---LeetCode Topics End-->
