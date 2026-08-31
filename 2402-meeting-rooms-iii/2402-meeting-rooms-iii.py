@@ -1,45 +1,32 @@
-import heapq
+from heapq import heappush, heappop, heapify
 class Solution:
-    def mostBooked(self, n, meetings):
-
-        meetings.sort()
-
+    def mostBooked(self, n: int, meetings: List[List[int]]) -> int:
         free = list(range(n))
-        heapq.heapify(free)
-
-        busy = []
-
-        count = [0] * n
-
+        heapify(free)
+        pq = []
+        rooms = [0] * n
+        meetings.sort()
         for start, end in meetings:
-
-            
-            while busy and busy[0][0] <= start:
-                finish, room = heapq.heappop(busy)
-                heapq.heappush(free, room)
-
-            
+            while pq and pq[0][0] <= start:
+                e,r = heappop(pq)
+                heappush(free, r)
             if free:
-                room = heapq.heappop(free)
-
-                heapq.heappush(
-                    busy,
-                    (end, room)
-                )
-
-        
+                heappush(pq, (end,free[0]))
+                room = heappop(free)
+                rooms[room] += 1
             else:
-                finish, room = heapq.heappop(busy)
+                e, r = heappop(pq)
+                diff = end - start
+                new = e + diff
+                heappush(pq, (new, r))
+                rooms[r] += 1
+        temp = -1
+        for i, val in enumerate(rooms):
+            if val > temp:
+                temp = val
+                idx = i
+        return idx
+            
 
-                duration = end - start
 
-                newEnd = finish + duration
-
-                heapq.heappush(
-                    busy,
-                    (newEnd, room)
-                )
-
-            count[room] += 1
-
-        return count.index(max(count))
+            
