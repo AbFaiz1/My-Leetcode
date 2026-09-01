@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-longest-happy-prefix](https://github.com/AbFaiz1/My-Leetcode/tree/master/1392-longest-happy-prefix) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/AbFaiz1/My-Leetcode/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/AbFaiz1/My-Leetcode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2207-maximize-number-of-subsequences-in-a-string](https://github.com/AbFaiz1/My-Leetcode/tree/master/2207-maximize-number-of-subsequences-in-a-string) |
 | [2484-count-palindromic-subsequences](https://github.com/AbFaiz1/My-Leetcode/tree/master/2484-count-palindromic-subsequences) |
 ## Depth-First Search
 |  |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-reduce-array-size-to-the-half](https://github.com/AbFaiz1/My-Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1386-cinema-seat-allocation](https://github.com/AbFaiz1/My-Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1975-maximum-matrix-sum](https://github.com/AbFaiz1/My-Leetcode/tree/master/1975-maximum-matrix-sum) |
+| [2207-maximize-number-of-subsequences-in-a-string](https://github.com/AbFaiz1/My-Leetcode/tree/master/2207-maximize-number-of-subsequences-in-a-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AbFaiz1/My-Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/AbFaiz1/My-Leetcode/tree/master/3434-maximum-frequency-after-subarray-operation) |
 ## Longest Increasing Subsequence
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/AbFaiz1/My-Leetcode/tree/master/1094-car-pooling) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AbFaiz1/My-Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1854-maximum-population-year](https://github.com/AbFaiz1/My-Leetcode/tree/master/1854-maximum-population-year) |
+| [2207-maximize-number-of-subsequences-in-a-string](https://github.com/AbFaiz1/My-Leetcode/tree/master/2207-maximize-number-of-subsequences-in-a-string) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/AbFaiz1/My-Leetcode/tree/master/3434-maximum-frequency-after-subarray-operation) |
 ## Sorting
 |  |
