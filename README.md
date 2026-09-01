@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-minimum-interval-to-include-each-query](https://github.com/AbFaiz1/My-Leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1854-maximum-population-year](https://github.com/AbFaiz1/My-Leetcode/tree/master/1854-maximum-population-year) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/AbFaiz1/My-Leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [1882-process-tasks-using-servers](https://github.com/AbFaiz1/My-Leetcode/tree/master/1882-process-tasks-using-servers) |
 | [1975-maximum-matrix-sum](https://github.com/AbFaiz1/My-Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/AbFaiz1/My-Leetcode/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AbFaiz1/My-Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/AbFaiz1/My-Leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/AbFaiz1/My-Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/AbFaiz1/My-Leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
+| [1882-process-tasks-using-servers](https://github.com/AbFaiz1/My-Leetcode/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AbFaiz1/My-Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2402-meeting-rooms-iii](https://github.com/AbFaiz1/My-Leetcode/tree/master/2402-meeting-rooms-iii) |
 ## Divide and Conquer
