@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2402-meeting-rooms-iii](https://github.com/AbFaiz1/My-Leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2432-the-employee-that-worked-on-the-longest-task](https://github.com/AbFaiz1/My-Leetcode/tree/master/2432-the-employee-that-worked-on-the-longest-task) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/AbFaiz1/My-Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2861-maximum-number-of-alloys](https://github.com/AbFaiz1/My-Leetcode/tree/master/2861-maximum-number-of-alloys) |
 | [3169-count-days-without-meetings](https://github.com/AbFaiz1/My-Leetcode/tree/master/3169-count-days-without-meetings) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/AbFaiz1/My-Leetcode/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/AbFaiz1/My-Leetcode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-minimum-interval-to-include-each-query](https://github.com/AbFaiz1/My-Leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/AbFaiz1/My-Leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AbFaiz1/My-Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2861-maximum-number-of-alloys](https://github.com/AbFaiz1/My-Leetcode/tree/master/2861-maximum-number-of-alloys) |
 | [3814-maximum-capacity-within-budget](https://github.com/AbFaiz1/My-Leetcode/tree/master/3814-maximum-capacity-within-budget) |
 ## Dynamic Programming
 |  |
