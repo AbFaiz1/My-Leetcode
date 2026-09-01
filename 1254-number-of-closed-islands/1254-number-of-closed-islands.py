@@ -3,23 +3,19 @@ class Solution:
         directions = [(1,0), (0,1), (-1,0), (0,-1)]
         rows = len(grid)
         cols = len(grid[0])
-        
         def dfs(r, c):
             if r < 0 or c < 0 or r >= rows or c >= cols:
                 return
             if grid[r][c] == 1:
                 return
-
             grid[r][c] = 1  
             for x, y in directions:
                 dfs(r + x, c + y)
-
         for i in range(cols):
             if grid[0][i] == 0:
                 dfs(0, i)  
             if grid[rows-1][i] == 0:
                 dfs(rows-1, i) 
-
         for i in range(rows):
             if grid[i][0] == 0:
                 dfs(i, 0) 
