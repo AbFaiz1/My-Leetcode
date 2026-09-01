@@ -4,9 +4,9 @@ class Solution:
         ans = 0
         prev = 1
         for start, end in meetings:
-            if start > prev:
+            if prev < start:
                 ans += start - prev
-            prev = max(prev, end + 1)
+            prev = max(prev, end+1)
         if prev <= days:
             ans += days - prev + 1
         return ans
