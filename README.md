@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/AbFaiz1/My-Leetcode/tree/master/0994-rotting-oranges) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/AbFaiz1/My-Leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1094-car-pooling](https://github.com/AbFaiz1/My-Leetcode/tree/master/1094-car-pooling) |
+| [1105-filling-bookcase-shelves](https://github.com/AbFaiz1/My-Leetcode/tree/master/1105-filling-bookcase-shelves) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/AbFaiz1/My-Leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/AbFaiz1/My-Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AbFaiz1/My-Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/AbFaiz1/My-Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/AbFaiz1/My-Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0983-minimum-cost-for-tickets](https://github.com/AbFaiz1/My-Leetcode/tree/master/0983-minimum-cost-for-tickets) |
+| [1105-filling-bookcase-shelves](https://github.com/AbFaiz1/My-Leetcode/tree/master/1105-filling-bookcase-shelves) |
 | [1143-longest-common-subsequence](https://github.com/AbFaiz1/My-Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/AbFaiz1/My-Leetcode/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/AbFaiz1/My-Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
