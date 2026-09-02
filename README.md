@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/AbFaiz1/My-Leetcode/tree/master/0735-asteroid-collision) |
 | [0752-open-the-lock](https://github.com/AbFaiz1/My-Leetcode/tree/master/0752-open-the-lock) |
 | [0778-swim-in-rising-water](https://github.com/AbFaiz1/My-Leetcode/tree/master/0778-swim-in-rising-water) |
+| [0813-largest-sum-of-averages](https://github.com/AbFaiz1/My-Leetcode/tree/master/0813-largest-sum-of-averages) |
 | [0827-making-a-large-island](https://github.com/AbFaiz1/My-Leetcode/tree/master/0827-making-a-large-island) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/AbFaiz1/My-Leetcode/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0907-sum-of-subarray-minimums](https://github.com/AbFaiz1/My-Leetcode/tree/master/0907-sum-of-subarray-minimums) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/AbFaiz1/My-Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/AbFaiz1/My-Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AbFaiz1/My-Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0813-largest-sum-of-averages](https://github.com/AbFaiz1/My-Leetcode/tree/master/0813-largest-sum-of-averages) |
 | [0907-sum-of-subarray-minimums](https://github.com/AbFaiz1/My-Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/AbFaiz1/My-Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0983-minimum-cost-for-tickets](https://github.com/AbFaiz1/My-Leetcode/tree/master/0983-minimum-cost-for-tickets) |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/AbFaiz1/My-Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0813-largest-sum-of-averages](https://github.com/AbFaiz1/My-Leetcode/tree/master/0813-largest-sum-of-averages) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/AbFaiz1/My-Leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1094-car-pooling](https://github.com/AbFaiz1/My-Leetcode/tree/master/1094-car-pooling) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AbFaiz1/My-Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
