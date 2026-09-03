@@ -18,19 +18,24 @@ class Solution:
                         seen.add(island_id) 
                         choice += mp[island_id]  
             ans = max(ans, choice)
-            return ans 
+            return ans
+        visited = set()
         def dfs(r, c, id):
-            if r >= rows or c >= cols or r < 0 or c < 0:
+            if r < 0 or c < 0 or r >= rows or c >= cols:
                 return 0
-            if grid[r][c] != 1:
+            if (r, c) in visited:
                 return 0
-            grid[r][c] = id
-            choice = 1
+            if grid[r][c] == 0:
+                return 0
+            size = 1
+            visited.add((r, c))
+            if grid[r][c] == 1:
+                grid[r][c] = id
             for x, y in directions:
                 nr = x + r
                 nc = y + c
-                choice += dfs(nr, nc, id)
-            return choice
+                size += dfs(nr, nc, id) 
+            return size
         id = 2
         for i in range(rows):
             for j in range(cols):
@@ -43,7 +48,6 @@ class Solution:
             for j in range(cols):
                 if grid[i][j] == 0:
                     ans = max(ans,check(i, j))
-        
         if ans == 0:
             return rows * cols
         return ans
