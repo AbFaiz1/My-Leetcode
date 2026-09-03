@@ -4,17 +4,15 @@ class Solution:
         visiting = set()
         safe = set()
         def dfs(start):
-            if start in visiting:
-                return False
-            if start in safe:
-                return True
+            visited.add(start)
             visiting.add(start)
             for nei in graph[start]:
-                if not dfs(nei):
-                    visiting.remove(start)
+                if nei not in visited:
+                    if not dfs(nei):
+                        return False
+                if nei in visiting:
                     return False
             visiting.remove(start)
-            safe.add(start)
             return True
         ans = []
         for i in range(len(graph)):
