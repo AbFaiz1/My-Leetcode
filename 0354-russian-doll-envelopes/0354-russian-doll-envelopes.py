@@ -4,11 +4,13 @@ class Solution:
         dp = []
         envelopes.sort(key=lambda x: (x[0], -x[1]))
         for _, h in envelopes:
-            idx = bisect_left(dp, h)
-            if idx == len(dp):
+            if not dp:
                 dp.append(h)
             else:
-                dp[idx] = h
+                idx = bisect_left(dp, h)
+                if idx == len(dp):
+                    dp.append(h)
+                else:
+                    dp[idx], h = h, dp[idx]
         return len(dp)
 
-        
