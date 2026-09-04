@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-reduce-array-size-to-the-half](https://github.com/AbFaiz1/My-Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1386-cinema-seat-allocation](https://github.com/AbFaiz1/My-Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/AbFaiz1/My-Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/AbFaiz1/My-Leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1514-path-with-maximum-probability](https://github.com/AbFaiz1/My-Leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/AbFaiz1/My-Leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1584-min-cost-to-connect-all-points](https://github.com/AbFaiz1/My-Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/AbFaiz1/My-Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1338-reduce-array-size-to-the-half](https://github.com/AbFaiz1/My-Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1386-cinema-seat-allocation](https://github.com/AbFaiz1/My-Leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/AbFaiz1/My-Leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/AbFaiz1/My-Leetcode/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/AbFaiz1/My-Leetcode/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2402-meeting-rooms-iii](https://github.com/AbFaiz1/My-Leetcode/tree/master/2402-meeting-rooms-iii) |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0767-reorganize-string](https://github.com/AbFaiz1/My-Leetcode/tree/master/0767-reorganize-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/AbFaiz1/My-Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/AbFaiz1/My-Leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1854-maximum-population-year](https://github.com/AbFaiz1/My-Leetcode/tree/master/1854-maximum-population-year) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/AbFaiz1/My-Leetcode/tree/master/2183-count-array-pairs-divisible-by-k) |
 ## Bracket Sequences
