@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/AbFaiz1/My-Leetcode/tree/master/0257-binary-tree-paths) |
 | [0399-evaluate-division](https://github.com/AbFaiz1/My-Leetcode/tree/master/0399-evaluate-division) |
 | [0424-longest-repeating-character-replacement](https://github.com/AbFaiz1/My-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/AbFaiz1/My-Leetcode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/AbFaiz1/My-Leetcode/tree/master/0647-palindromic-substrings) |
 | [0686-repeated-string-match](https://github.com/AbFaiz1/My-Leetcode/tree/master/0686-repeated-string-match) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/AbFaiz1/My-Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AbFaiz1/My-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0295-find-median-from-data-stream](https://github.com/AbFaiz1/My-Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0475-heaters](https://github.com/AbFaiz1/My-Leetcode/tree/master/0475-heaters) |
+| [0567-permutation-in-string](https://github.com/AbFaiz1/My-Leetcode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/AbFaiz1/My-Leetcode/tree/master/0647-palindromic-substrings) |
 | [0763-partition-labels](https://github.com/AbFaiz1/My-Leetcode/tree/master/0763-partition-labels) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/AbFaiz1/My-Leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AbFaiz1/My-Leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/AbFaiz1/My-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/AbFaiz1/My-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/AbFaiz1/My-Leetcode/tree/master/0567-permutation-in-string) |
 | [0721-accounts-merge](https://github.com/AbFaiz1/My-Leetcode/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/AbFaiz1/My-Leetcode/tree/master/0752-open-the-lock) |
 | [0763-partition-labels](https://github.com/AbFaiz1/My-Leetcode/tree/master/0763-partition-labels) |
@@ -434,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AbFaiz1/My-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/AbFaiz1/My-Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/AbFaiz1/My-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/AbFaiz1/My-Leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/AbFaiz1/My-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0992-subarrays-with-k-different-integers](https://github.com/AbFaiz1/My-Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AbFaiz1/My-Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
