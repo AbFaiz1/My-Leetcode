@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AbFaiz1/My-Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/AbFaiz1/My-Leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/AbFaiz1/My-Leetcode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/AbFaiz1/My-Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/AbFaiz1/My-Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/AbFaiz1/My-Leetcode/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/AbFaiz1/My-Leetcode/tree/master/0118-pascals-triangle) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/AbFaiz1/My-Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/AbFaiz1/My-Leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/AbFaiz1/My-Leetcode/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/AbFaiz1/My-Leetcode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AbFaiz1/My-Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AbFaiz1/My-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0295-find-median-from-data-stream](https://github.com/AbFaiz1/My-Leetcode/tree/master/0295-find-median-from-data-stream) |
@@ -480,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/AbFaiz1/My-Leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/AbFaiz1/My-Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/AbFaiz1/My-Leetcode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/AbFaiz1/My-Leetcode/tree/master/0075-sort-colors) |
 | [0295-find-median-from-data-stream](https://github.com/AbFaiz1/My-Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0354-russian-doll-envelopes](https://github.com/AbFaiz1/My-Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/AbFaiz1/My-Leetcode/tree/master/0368-largest-divisible-subset) |
@@ -655,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/AbFaiz1/My-Leetcode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/AbFaiz1/My-Leetcode/tree/master/0075-sort-colors) |
 ## Simulation
 |  |
 | ------- |
@@ -785,4 +789,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1015-smallest-integer-divisible-by-k](https://github.com/AbFaiz1/My-Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/AbFaiz1/My-Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
