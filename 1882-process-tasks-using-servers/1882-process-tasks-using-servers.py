@@ -10,7 +10,6 @@ class Solution:
             while busy and busy[0][0]<i:
                 end,w,idx=heappop(busy)
                 heappush(free,(w,idx))
-
             if free:
                 w,idx=heappop(free)
                 ans[i]=idx
