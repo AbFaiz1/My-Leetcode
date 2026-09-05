@@ -1,14 +1,15 @@
 class Solution:
     def countSubstrings(self, s: str) -> int:
-        count = 0
-        def expand(left, right):
-            nonlocal count
-            while left >= 0 and right < len(s) and s[left] == s[right]:
+        def expand(i, j, count):
+            while i >= 0 and j < len(s) and s[i] == s[j]:
+                i -= 1
+                j += 1
                 count += 1
-                left -= 1
-                right += 1
+            return count
+        ans = 0
         for i in range(len(s)):
-            expand(i, i)
-            expand(i, i+1)
-        return count
-           
+            c1 = expand(i, i, 0)
+            c2 = expand(i, i+1, 0)
+            ans += c1 + c2
+        return ans
+            
