@@ -390,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/AbFaiz1/My-Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/AbFaiz1/My-Leetcode/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [3649-number-of-perfect-pairs](https://github.com/AbFaiz1/My-Leetcode/tree/master/3649-number-of-perfect-pairs) |
+| [3870-count-commas-in-range](https://github.com/AbFaiz1/My-Leetcode/tree/master/3870-count-commas-in-range) |
 ## Two Pointers
 |  |
 | ------- |
