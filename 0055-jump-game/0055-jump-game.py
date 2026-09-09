@@ -1,11 +1,15 @@
+from functools import lru_cache
 class Solution:
     def canJump(self, arr: List[int]) -> bool:
-        reach = 0
-        for i in range(len(arr)):
-            if i > reach:
-                return False
-            if arr[i] + i > reach:
-                reach = arr[i] + i
-            if reach >= len(arr):
+        @lru_cache(None)
+        def solve(i):
+            if i == len(arr) - 1:
                 return True
-        return True
+            if arr[i] == 0:
+                return False
+            for newIndex in range(i+1, i+arr[i]+1):
+                if solve(newIndex):
+                    return True
+            return False
+        return solve(0)
+        
