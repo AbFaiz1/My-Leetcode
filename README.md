@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/AbFaiz1/My-Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/AbFaiz1/My-Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0679-24-game](https://github.com/AbFaiz1/My-Leetcode/tree/master/0679-24-game) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/AbFaiz1/My-Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0704-binary-search](https://github.com/AbFaiz1/My-Leetcode/tree/master/0704-binary-search) |
 | [0721-accounts-merge](https://github.com/AbFaiz1/My-Leetcode/tree/master/0721-accounts-merge) |
 | [0735-asteroid-collision](https://github.com/AbFaiz1/My-Leetcode/tree/master/0735-asteroid-collision) |
@@ -111,12 +112,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/AbFaiz1/My-Leetcode/tree/master/0257-binary-tree-paths) |
 | [0491-non-decreasing-subsequences](https://github.com/AbFaiz1/My-Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0679-24-game](https://github.com/AbFaiz1/My-Leetcode/tree/master/0679-24-game) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/AbFaiz1/My-Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0797-all-paths-from-source-to-target](https://github.com/AbFaiz1/My-Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/AbFaiz1/My-Leetcode/tree/master/0078-subsets) |
 | [0491-non-decreasing-subsequences](https://github.com/AbFaiz1/My-Leetcode/tree/master/0491-non-decreasing-subsequences) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/AbFaiz1/My-Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1386-cinema-seat-allocation](https://github.com/AbFaiz1/My-Leetcode/tree/master/1386-cinema-seat-allocation) |
 ## String
 |  |
@@ -366,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/AbFaiz1/My-Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/AbFaiz1/My-Leetcode/tree/master/0647-palindromic-substrings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/AbFaiz1/My-Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/AbFaiz1/My-Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/AbFaiz1/My-Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AbFaiz1/My-Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0813-largest-sum-of-averages](https://github.com/AbFaiz1/My-Leetcode/tree/master/0813-largest-sum-of-averages) |
@@ -819,4 +823,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/AbFaiz1/My-Leetcode/tree/master/0075-sort-colors) |
+## Memoization
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/AbFaiz1/My-Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Bitmask
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/AbFaiz1/My-Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 <!---LeetCode Topics End-->
