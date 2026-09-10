@@ -1,7 +1,7 @@
 class Solution:
     def removeInvalidParentheses(self, s: str) -> List[str]:
         ans = []
-        memo = set()                         # FIX: visited states store karne ke liye
+        memo = set()                        
 
         def check(s):
             count = 0
@@ -15,9 +15,9 @@ class Solution:
             return count == 0
 
         def solve(i, s):
-            if (i, s) in memo:              # FIX: same state dobara process nahi karna
+            if (i, s) in memo:            
                 return
-            memo.add((i, s))                # FIX: state ko visited mark karna
+            memo.add((i, s))                
 
             if i >= len(s):
                 if check(s):
