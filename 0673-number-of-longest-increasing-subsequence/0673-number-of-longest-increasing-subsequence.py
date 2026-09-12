@@ -11,13 +11,9 @@ class Solution:
                         count[i] = count[j]
                     elif length[j] + 1 == length[i]:
                         count[i] += count[j]
-
         max_len = max(length)
-
         ans = 0
-
         for i in range(n):
             if length[i] == max_len:
                 ans += count[i]
-
         return ans
