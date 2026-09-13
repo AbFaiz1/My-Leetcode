@@ -1,7 +1,5 @@
 from collections import deque
-
 class Solution:
-
     def pancakeSort(self, arr: List[int]) -> List[int]:
         dq = deque()
         ans = []
@@ -27,10 +25,9 @@ class Solution:
                 else:
                     ans.append(pos + 1)
                     arr[:pos + 1] = arr[:pos + 1][::-1]
-                    arr[:size] = arr[:size][::-1]  # FIX: target ko final position par bhejo
+                    arr[:size] = arr[:size][::-1] 
                     ans.append(size)
                     dq.popleft()
                     count += 1
                     continue
-
         return ans
