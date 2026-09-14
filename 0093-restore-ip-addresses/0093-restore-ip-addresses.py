@@ -1,9 +1,6 @@
 class Solution:
-
     def restoreIpAddresses(self, s: str) -> List[str]:
-
         ans = []
-
         def solve(i, temp, dot):
             if dot == 3:
                 last = s[i:]
